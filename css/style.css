@@ -76,9 +76,11 @@ body {
 	line-height: normal;
 	font-weight: 400;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 
 body {
+	overflow-y: hidden;
 	overflow-x: hidden;
 }
 
